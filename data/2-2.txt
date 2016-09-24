@@ -1,0 +1,48 @@
+Frequent 1-itemsets
+
+	284 : {10}
+	318 : {2}
+	260 : {4}
+	313 : {16}
+	274 : {26}
+	251 : {39}
+	556 : {17}
+	459 : {19}
+	327 : {32}
+	353 : {33}
+	456 : {28}
+	469 : {37}
+	529 : {43}
+	545 : {6}
+
+	Total number of Frequent 1-itemsets = 14
+
+Frequent 2-itemsets
+
+	130 : {10,19}
+Tail Count = 459
+	103 : {10,33}
+Tail Count = 353
+	124 : {10,28}
+Tail Count = 456
+	138 : {10,37}
+Tail Count = 469
+	116 : {2,16}
+Tail Count = 313
+	140 : {2,19}
+Tail Count = 459
+	104 : {2,33}
+Tail Count = 353
+	134 : {2,28}
+Tail Count = 456
+	148 : {2,37}
+Tail Count = 469
+	111 : {4,19}
+Tail Count = 459
+	114 : {4,28}
+Tail Count = 456
+	305 : {17,43}
+Tail Count = 529
+
+	Total number of Frequent 2-itemsets = 12
+

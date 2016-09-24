@@ -1,0 +1,37 @@
+Frequent 1-itemsets
+
+	19 : {30}
+	32 : {60}
+
+	Total number of Frequent 1-itemsets = 2
+
+Frequent 2-itemsets
+
+	7 : {10,30}
+Tail Count = 19
+	13 : {10,60}
+Tail Count = 32
+	14 : {30,70}
+Tail Count = 26
+	16 : {60,20}
+Tail Count = 19
+	19 : {60,70}
+Tail Count = 26
+	32 : {60,50}
+Tail Count = 40
+
+	Total number of Frequent 2-itemsets = 6
+
+Frequent 3-itemsets
+
+	5 : {10,30,70}
+Tail Count = 14
+	7 : {10,60,20}
+Tail Count = 16
+	7 : {10,60,70}
+Tail Count = 19
+	19 : {60,70,50}
+Tail Count = 26
+
+	Total number of Frequent 3-itemsets = 4
+

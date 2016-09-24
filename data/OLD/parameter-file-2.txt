@@ -1,0 +1,8 @@
+MIS(10) = 0.25
+MIS(19) = 0.25
+MIS(88) = 0.30
+MIS(54) = 0.40
+MIS(42) = 0.40
+SDC = 0.2
+cannot_be_together: {19,88}
+must-have: 19 or 88 or 54

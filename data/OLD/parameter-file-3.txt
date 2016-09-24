@@ -1,0 +1,13 @@
+MIS(10) = 0.20
+MIS(15) = 0.10
+MIS(22) = 0.15
+MIS(33) = 0.30
+MIS(42) = 0.25
+MIS(67) = 0.20
+MIS(79) = 0.35
+MIS(85) = 0.30
+MIS(90) = 0.40
+MIS(95) = 0.40
+SDC = 0.2
+cannot_be_together: {10,22,15}
+must-have: 10 or 15 or 22

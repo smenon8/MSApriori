@@ -1,0 +1,10 @@
+MIS(1) = 0.25
+MIS(2) = 0.5
+MIS(3) = 0.25
+MIS(4) = 0.5
+MIS(5) = 0.25
+MIS(6) = 0.25
+MIS(7) = 0.25
+SDC = 0
+cannot_be_together: {20, 40, 50}
+must-have: 20 or 40 or 50
